@@ -2,5 +2,5 @@ projects/README.md
 # Projects
 This folder showcases projects I have completed.
 ## Contents
-* [Project 1](project_1)
+* [fan page](fanpage.html)
 * [Project 2](project_2)
