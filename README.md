@@ -1,2 +1,4 @@
-# jdela-port-pers
-Portfolios and things like that 
+# Projects
+This folder showcases projects I have completed.
+## Contents
+* uzi fan page
